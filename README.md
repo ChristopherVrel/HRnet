@@ -1,3 +1,10 @@
+<div align="center">
+  <img width="200" src="./public/HRnet_logo.png" alt="HRnet logo">
+</div>
+<h1 align="center" style="margin-top: 0px;">Projet 14</h1>
+
+<img width="100%" src="./public/HRnet_employees.png" alt="HRnet employees" align="center">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
