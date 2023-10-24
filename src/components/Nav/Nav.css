@@ -1,0 +1,12 @@
+.nav {
+    display: flex;
+    align-items: center;
+    height: 2.5rem;
+    padding: 1rem 2rem;
+}
+
+.nav-content {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}

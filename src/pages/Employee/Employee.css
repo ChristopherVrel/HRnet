@@ -1,0 +1,30 @@
+.table-main {
+    min-width: unset !important;
+    width: unset !important;
+}
+
+.table-main .table-container .table .empty-row {
+    height: 65px !important;
+}
+
+.table-main .table-container .table thead {
+    background-color: var(--light-purple) !important;
+    color: var(--dark-purple) !important;
+}
+
+.table-main .table-container .table tbody tr:hover {
+    background-color: var(--ultra-light-purple) !important;
+}
+
+.table-main .table-pagination .pagination-container button {
+    background-color: var(--purple) !important;
+    color: #fff !important;
+}
+
+.table-main .table-pagination .pagination-container ul li:hover {
+    background-color: var(--light-purple) !important;
+}
+
+.table-main .table-pagination .pagination-container .selected {
+    background-color: var(--light-purple) !important;
+}

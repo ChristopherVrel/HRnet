@@ -1,0 +1,18 @@
+.footer-container {
+    background-color: #fafafb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    gap: 0.5rem;
+    border-top: 1px solid var(--light-grey);
+}
+
+.footer-container p {
+    margin: 0;
+}
+
+.footer-links {
+    display: flex;
+    gap: 2rem;
+}
